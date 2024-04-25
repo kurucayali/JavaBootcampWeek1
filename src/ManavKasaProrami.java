@@ -1,13 +1,13 @@
 import java.util.Scanner;
 public class ManavKasaProrami {
     public static void main(String[] args) {
-        //değişkenleri oluştur
-        //sabit değerler
+        //değişkenleri oluşturalım
+        //fiyat bazlı sabit değerler
         double armut=2.14, elma=3.67 , domates=1.11, muz= 0.95, patlıcan=5.00;
-        //ürünün ilk harfine atanan değişken kilo miktarına eşitlenecek
+        //ürünün ilk harfine atanan değişken kilo miktarına eşitleyerek ilerleyelim
         double a,e,d,m,p,toplam;
 
-        //inputları al
+        //her ürün için inputları alalım
         Scanner input= new Scanner(System.in);
         System.out.print("Armut Kaç Kilo ?..:");
         a=input.nextDouble();
@@ -20,11 +20,11 @@ public class ManavKasaProrami {
         System.out.print("Patlıcan Kaç Kilo ?..:");
         p=input.nextDouble();
 
-        //denklemleri kur
+        //denklemi kurup toplam fiyatı hesaplayalım
         toplam= (elma*e)+(armut*a)+(domates*d)+(muz*m)+(patlıcan*p);
 
-        //çıktı ver
+        //sonuç çıktısını verelim
 
-        System.out.print("Toplam Tutar : "+ toplam);
+        System.out.print("Toplam Tutar : "+ toplam+"TL");
     }
 }
