@@ -1,3 +1,5 @@
+
+//Manavdan satın alınan ürünlerin toplam tutarını hesaplayan program
 import java.util.Scanner;
 public class ManavKasaProrami {
     public static void main(String[] args) {
