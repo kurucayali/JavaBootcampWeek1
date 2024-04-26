@@ -29,7 +29,6 @@ public class UcakBiletiFiyatHesaplamaProg {
         System.out.print("Yolculuk tipini giriniz (1 => Tek Yön , 2 => Gidiş Dönüş ):");
         yolculukTipi = input.nextInt();
 
-
 // Veri doğruluğunu kontrol edelim.
 
         if ((yolculukTipi != 1 && yolculukTipi != 2) || yas <= 0 || mesafe <= 0) {
@@ -38,7 +37,7 @@ public class UcakBiletiFiyatHesaplamaProg {
 
             toplamFiyat = mesafe * birimFiyat;
 
-            // İndirimleri uygula
+            // İndirimleri uygulayalım
 
             // 12 yaşından küçükse %50 indirim
             if (yas < 12) {
