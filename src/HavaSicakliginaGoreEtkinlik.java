@@ -6,7 +6,7 @@ Sıcaklık 15 ve 25 arasında ise "Piknik" etkinliğini öner.
 Sıcaklık 25'ten büyük ise "Yüzme" etkinliğini öner.
  */
 import java.util.Scanner;
-public class HavaSicakliginaGöreEtkinlik {
+public class HavaSicakliginaGoreEtkinlik {
     public static void main(String[] args) {
         int heat;
         Scanner input = new Scanner(System.in);
