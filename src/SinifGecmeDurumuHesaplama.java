@@ -2,7 +2,7 @@
 Eğer ders notu için girilen değer 0-100 arasında değilse bu aralıkta değer girilene kadar tekrar isteyeceğiz.
  */
 import java.util.Scanner;
-public class SinifGeçmeDurumuHesaplama {
+public class SinifGecmeDurumuHesaplama {
     public static void main(String[] args) {
         //değişkenleri tanımlayalım
         int mat, fizik, kimya, muzik, turkce;
