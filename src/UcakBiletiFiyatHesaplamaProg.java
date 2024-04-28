@@ -1,3 +1,6 @@
+// Uçak bileti fiyatı hesaplama grup ödevi
+// Ali Kuruçay, Cihan Özdemir, Emre Çimen, Mert Acu, Mirac Eyüpoğlu
+
 /* Uçak bileti fiyatı hesaplama. Kullanıcıdan mesafe, yaş ve yolculuk tipi girdileri
 alınarak ücret hesabı yapılacak. */
 
