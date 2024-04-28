@@ -15,7 +15,7 @@ public class ArtikYilHesaplama {
         System.out.print("Yıl giriniz :");
         year = input.nextInt();
 
-        //koşulları belirleyip o doğrultu da verilecek çıktıları oluşturuyoruz.
+        //koşulları belirleyip o doğrultuda verilecek çıktıları oluşturuyoruz.
 
         if (year % 400 == 0) {
             System.out.print(year + (" bir artık yıldır."));
