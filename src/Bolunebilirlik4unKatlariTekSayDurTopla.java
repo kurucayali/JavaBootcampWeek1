@@ -5,7 +5,7 @@ tek bir sayı girilene kadar kullanıcıdan girişleri kabul eden ve  girilen de
 
 import java.util.Scanner;
 
-public class Bolunebilirlik4unKatlarıTekSayDurTopla {
+public class Bolunebilirlik4unKatlariTekSayDurTopla {
     public static void main(String[] args) {
         // değişkenleri tanımlayalım
         int total = 0; // Toplamı tutmak için değişken
