@@ -1,5 +1,5 @@
 
-//kullanıcıdan bir değer al ve rakamlarını toplayan program
+//kullanıcıdan bir değer alan ve rakamlarını toplayan program
 import java.util.Scanner;
 
 public class BasamakSayilarininToplami {
