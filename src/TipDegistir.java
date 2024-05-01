@@ -17,7 +17,7 @@ public class TipDegistir {
         // Ondalıklı sayıyı tam sayıya dönüştürelim
         int ondalikliSayiInt = (int) ondalikliSayi;
 
-        // Sonuçları ekrana yazdırın
+        // Sonuçları ekrana yazdır
         System.out.println("Tam sayıyı ondalıklı sayıya dönüştürme: " + tamSayiDouble);
         System.out.println("Ondalıklı sayıyı tam sayıya dönüştürme: " + ondalikliSayiInt);
 
