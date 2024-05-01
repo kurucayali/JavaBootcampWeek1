@@ -1,3 +1,8 @@
+/*
+Bir sayının kendisi hariç pozitif tam sayı çarpanları (kalansız bölen sayıların)
+toplamı kendisine eşit olan sayıya mükemmel sayı denir.
+Sayının mükemmel olup olmadığını bildiren program yazıyoruz.
+ */
 import java.util.Scanner;
 public class MukummelSayi {
     public static void main(String[] args) {
