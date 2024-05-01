@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class EbobEkokbulma {
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
+        Scanner input = new Scanner(System.in); // Kullanıcıdan girdiler alınır
         System.out.print("1. sayıyı giriniz: ");
         int n1 = input.nextInt();
         System.out.print("2. sayıyı giriniz: ");
