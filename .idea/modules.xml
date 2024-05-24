@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../JavaBootcampWeek2/BoksMaci/BoksMaci.iml" filepath="$PROJECT_DIR$/../JavaBootcampWeek2/BoksMaci/BoksMaci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HackerRankExercise/HackerRankExercise.iml" filepath="$PROJECT_DIR$/../HackerRankExercise/HackerRankExercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/../JavaBootcampWeek2/JavaBootCampWeek2.iml" filepath="$PROJECT_DIR$/../JavaBootcampWeek2/JavaBootCampWeek2.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaBootcampWeek1.iml" filepath="$PROJECT_DIR$/JavaBootcampWeek1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../JavaBootcampWeek3/JavaBootcampWeek3.iml" filepath="$PROJECT_DIR$/../JavaBootcampWeek3/JavaBootcampWeek3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaBootcampWeek2/MaasHesabi/MaasHesabi.iml" filepath="$PROJECT_DIR$/../JavaBootcampWeek2/MaasHesabi/MaasHesabi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MaceraOyunu/MaceraOyunu.iml" filepath="$PROJECT_DIR$/../MaceraOyunu/MaceraOyunu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PrivateOdev/MayinTarlasi/MayinTarlasi.iml" filepath="$PROJECT_DIR$/../PrivateOdev/MayinTarlasi/MayinTarlasi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaBootcampWeek2/OgrenciBilgiSistemi/OgrenciBilgiSistemi.iml" filepath="$PROJECT_DIR$/../JavaBootcampWeek2/OgrenciBilgiSistemi/OgrenciBilgiSistemi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PatikaBootcampAll/PatikaBootcampAll.iml" filepath="$PROJECT_DIR$/../PatikaBootcampAll/PatikaBootcampAll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PrivateOdev/PrivateOdev.iml" filepath="$PROJECT_DIR$/../PrivateOdev/PrivateOdev.iml" />
     </modules>
   </component>
 </project>
