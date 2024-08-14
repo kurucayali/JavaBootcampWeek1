@@ -3,15 +3,25 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../JavaBootcampWeek2/BoksMaci/BoksMaci.iml" filepath="$PROJECT_DIR$/../JavaBootcampWeek2/BoksMaci/BoksMaci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PatikaBootcampAll/BookSorter/BookSorter.iml" filepath="$PROJECT_DIR$/../PatikaBootcampAll/BookSorter/BookSorter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PatikaBootcampAll/DosyadanSayilariOkuTopla/DosyadanSayilariOkuTopla.iml" filepath="$PROJECT_DIR$/../PatikaBootcampAll/DosyadanSayilariOkuTopla/DosyadanSayilariOkuTopla.iml" />
       <module fileurl="file://$PROJECT_DIR$/../HackerRankExercise/HackerRankExercise.iml" filepath="$PROJECT_DIR$/../HackerRankExercise/HackerRankExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PatikaBootcampAll/JDBSileVeritabani/JDBSileVeritabani.iml" filepath="$PROJECT_DIR$/../PatikaBootcampAll/JDBSileVeritabani/JDBSileVeritabani.iml" />
       <module fileurl="file://$PROJECT_DIR$/../JavaBootcampWeek2/JavaBootCampWeek2.iml" filepath="$PROJECT_DIR$/../JavaBootcampWeek2/JavaBootCampWeek2.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaBootcampWeek1.iml" filepath="$PROJECT_DIR$/JavaBootcampWeek1.iml" />
       <module fileurl="file://$PROJECT_DIR$/../JavaBootcampWeek2/MaasHesabi/MaasHesabi.iml" filepath="$PROJECT_DIR$/../JavaBootcampWeek2/MaasHesabi/MaasHesabi.iml" />
       <module fileurl="file://$PROJECT_DIR$/../MaceraOyunu/MaceraOyunu.iml" filepath="$PROJECT_DIR$/../MaceraOyunu/MaceraOyunu.iml" />
       <module fileurl="file://$PROJECT_DIR$/../PrivateOdev/MayinTarlasi/MayinTarlasi.iml" filepath="$PROJECT_DIR$/../PrivateOdev/MayinTarlasi/MayinTarlasi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PatikaBootcampAll/BookSorter/MostFrequentWord/MostFrequentWord.iml" filepath="$PROJECT_DIR$/../PatikaBootcampAll/BookSorter/MostFrequentWord/MostFrequentWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PatikaBootcampAll/MostFrequentWrd/MostFrequentWrd.iml" filepath="$PROJECT_DIR$/../PatikaBootcampAll/MostFrequentWrd/MostFrequentWrd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PatikaBootcampAll/NotePad/NotePad.iml" filepath="$PROJECT_DIR$/../PatikaBootcampAll/NotePad/NotePad.iml" />
       <module fileurl="file://$PROJECT_DIR$/../JavaBootcampWeek2/OgrenciBilgiSistemi/OgrenciBilgiSistemi.iml" filepath="$PROJECT_DIR$/../JavaBootcampWeek2/OgrenciBilgiSistemi/OgrenciBilgiSistemi.iml" />
       <module fileurl="file://$PROJECT_DIR$/../PatikaBootcampAll/PatikaBootcampAll.iml" filepath="$PROJECT_DIR$/../PatikaBootcampAll/PatikaBootcampAll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PatikaBootcampAll/PatikaStore/PatikaStore.iml" filepath="$PROJECT_DIR$/../PatikaBootcampAll/PatikaStore/PatikaStore.iml" />
       <module fileurl="file://$PROJECT_DIR$/../PrivateOdev/PrivateOdev.iml" filepath="$PROJECT_DIR$/../PrivateOdev/PrivateOdev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javaDBdeneme/javaDBdeneme.iml" filepath="$PROJECT_DIR$/../javaDBdeneme/javaDBdeneme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HackerRankExercise/javaDatabase/javaDatabase.iml" filepath="$PROJECT_DIR$/../HackerRankExercise/javaDatabase/javaDatabase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HackerRankExercise/javaDatabases/javaDatabases.iml" filepath="$PROJECT_DIR$/../HackerRankExercise/javaDatabases/javaDatabases.iml" />
     </modules>
   </component>
 </project>

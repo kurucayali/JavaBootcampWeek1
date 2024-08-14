@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../JavaBootcampWeek2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../MaceraOyunu" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../PatikaBootcampAll" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../PrivateOdev" vcs="Git" />
   </component>
 </project>
